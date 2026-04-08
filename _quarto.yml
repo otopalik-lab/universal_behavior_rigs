@@ -1,0 +1,10 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Otopalik Lab Behavior Rigs"
+
+format:
+  html:
+    theme: cosmo
