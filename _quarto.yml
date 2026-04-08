@@ -1,10 +1,9 @@
 project:
-  type: website
+  type: default
   output-dir: docs
-
-website:
-  title: "Otopalik Lab Behavior Rigs"
 
 format:
   html:
     theme: cosmo
+    toc: true
+    self-contained: true
