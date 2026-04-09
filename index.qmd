@@ -130,6 +130,20 @@ There are github repositories for the [RGB Universal Rig](https://github.com/oto
 
 A quick guide on running the universal behavior rigs can be found [here](assets/QuickGuideOnRunningRigs_AOrigs.pdf), and here you can find a sample [LED Protocol](assets/quicktestLEDprotocol.xlsx) that works for both RGG and RGB lightboards. We find that standardized metadata formats are useful when conducting behavioral screens and/or experiments at scale: [Experimental Protocol](assets/Sample_ExperimentalProtocol.xlsx), [Rearing Protocol](assets/Sample_RearingProtocol.xlsx), and [Handling Protocol](assets/Sample_HandlingProtocol.xlsx).
 
+# Related Github Repositories
+
+1. LED backlights: https://github.com/janelia-experimental-technology/RGB-IR-LED-Boards
+2. Design Files for Rig Components: https://github.com/otopalik-lab/Universal-Fly-Rig-CAD
+3. Video Acquisition Software: BIAS https://github.com/kristinbranson/BIASJAABA
+4. Operating Software for Universal Behavior Rigs with RGB LED Boards: https://github.com/otopalik-lab/UniversalRig_RGB
+5. Operating Software for Universal Behavior Rigs with RGG LED Boards: https://github.com/otopalik-lab/UniversalRig_RGG
+6. Video Processing & Animal Tracking Pipeline: 
+    FlyDiscoAnalysis https://github.com/kristinbranson/FlyDiscoAnalysis
+    FlyTracker https://github.com/kristinbranson/FlyTracker
+    JAABA: Janelia Automatic Animal Behavior Annotator https://github.com/kristinbranson/JAABA
+7. Repository for Data Analysis in pC1 Driver Line Behavioral Screen: https://github.com/otopalik-lab/pC1BehavioralAnalysis
+
+
 
 # Acknowledgments
 
